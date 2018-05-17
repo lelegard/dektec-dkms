@@ -1,2 +1,1 @@
-# dektec-dkms
-Linux DKMS for Dektec device drivers  (now moved to @tsduck organization)
+This repository has now been [transfered to the TSDuck organization](https://github.com/tsduck/dektec-dkms).
